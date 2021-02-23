@@ -1,6 +1,6 @@
 
 # Ontario Museum Association - Market Research Analysis
-### **A market research analysis on the "How digitization affects visitor engagement at museums"**
+### **A market research analysis on "How digitization affects visitor engagement at museums"**
 This repository holds the research brief, proposal, survey questionnaire designed, and the presentation of findings based on the market research conducted for the Ontario Museum Association to understand the affect of digitization on museums.
 
 
