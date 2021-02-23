@@ -5,13 +5,13 @@ This repository holds the research brief, proposal, survey questionnaire designe
 
 
 ### Project Overview
-The purpose of this research is to understand the favourability of this medium amongst people and help the client make changes in accordance with the market demand.
+The purpose of this research was to understand the favourability of the digital medium amongst people and help the client make changes inline with market demand.
 
-This research would help gauge consumer perception about the digitalization of museums and enable us to find opportunities for further improvement.
+The research helped gauge consumer perception about the digitalization of museums and enabled us to find opportunities for further improvement.
 
 
 ### Project Structure
-The project has been divided into various steps which include:
+The project was divided into various steps which include:
 
 - Research Brief and Proposal<br />
 - Questionnaire Design<br />
@@ -19,7 +19,7 @@ The project has been divided into various steps which include:
 - Presentaion of Results
 
 ### Questionnaire Deployment
-The questionnaire designed was deployed to gather responses from a sample of a 100 people among the general population. This was done using the Maru/Blue research and insights tool Maru/HUB.
+The questionnaire designed was deployed to gather responses from a sample of a 100 Ontarians. This was done using the Maru/Blue research and insights tool Maru/HUB.
 
 The resultant responses were gathered and leveraged to produce potentially valuable results using univariate analysis and cross-tabs.
 
