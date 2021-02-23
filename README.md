@@ -25,9 +25,9 @@ The resultant responses were gathered and leveraged to produce potentially valua
 
 
 ### Results
-The research brief and proposal can be found in Research Brief & Proposal - Ontario Museum Association.pdf
+The research brief and proposal can be found in [Research Brief](). & [Research Proposal]().
 
-To view the questionnaire designed for the puposes of this research, please refer Survey Questionnaire - Ontario Museum Association.pdf
+To view the questionnaire designed for the puposes of this research, please [click here]().
 
-The results and recommendations have been documented clearly in the presentation ONTARIO MUSEUM ASSOCIATION - MARKET RESEARCH.pdf
+The results and recommendations can be accessed from the [presentation](). 
 
