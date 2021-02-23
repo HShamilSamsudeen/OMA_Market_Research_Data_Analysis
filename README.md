@@ -25,9 +25,9 @@ The resultant responses were gathered and leveraged to produce potentially valua
 
 
 ### Results
-The research brief and proposal can be found in the [Research Brief](https://github.com/HShamilSamsudeen/OMA_Market_Research_Data_Analysis/blob/main/OMA_Research_Brief.pdf). & [Research Proposal](https://github.com/HShamilSamsudeen/OMA_Market_Research_Data_Analysis/blob/main/OMA_Research_Proposal.pdf).
+The research brief and proposal can be found in the [research brief](https://github.com/HShamilSamsudeen/OMA_Market_Research_Data_Analysis/blob/main/OMA_Research_Brief.pdf) & [research proposal](https://github.com/HShamilSamsudeen/OMA_Market_Research_Data_Analysis/blob/main/OMA_Research_Proposal.pdf).
 
-To view the questionnaire designed for the puposes of this research, please [click here for the Questionnaire Designed](https://github.com/HShamilSamsudeen/OMA_Market_Research_Data_Analysis/blob/main/OMA_Questionnaire_Design.pdf).
+To view the questionnaire designed for the puposes of this research, please [click here for the questionnaire designed](https://github.com/HShamilSamsudeen/OMA_Market_Research_Data_Analysis/blob/main/OMA_Questionnaire_Design.pdf).
 
-The results and recommendations can be accessed from the [Presentation](https://github.com/HShamilSamsudeen/OMA_Market_Research_Data_Analysis/blob/main/OMA_Results_Presentation_Compressed.pdf). 
+The results and recommendations can be accessed from the [presentation](https://github.com/HShamilSamsudeen/OMA_Market_Research_Data_Analysis/blob/main/OMA_Results_Presentation_Compressed.pdf). 
 
